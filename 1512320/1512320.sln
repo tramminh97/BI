@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "1512320", "1512320\1512320.dwproj", "{3FF15C96-DCB8-413C-9FCB-33B9F5D83979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF15C96-DCB8-413C-9FCB-33B9F5D83979}.Development|Default.ActiveCfg = Development
+		{3FF15C96-DCB8-413C-9FCB-33B9F5D83979}.Development|Default.Build.0 = Development
+		{3FF15C96-DCB8-413C-9FCB-33B9F5D83979}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44ACBD8B-2159-46B9-81DB-7DB81F077980}
+	EndGlobalSection
+EndGlobal
